@@ -4,7 +4,7 @@
 This is a Performance Analysis for Green Valley Medical Center, focusing on patient outcomes, treatment costs, departmental efficiency, and demographic trends. Beyond the dashboard visuals, the analysis revealed several operational challenges that directly impact performance and resource utilization.
 
 #  Hospital Performance Dashboard Analysis  
-![Hospital Performance Dashboard](https://github.com/splendorgrandeur-sketch/GREEN-VALLEY-MEDICAL-CENTER-PERFORMANCE-OVERVIEW-AND-REVIEW/blob/main/GVMC%20DASHBOARD1.png)
+![Hospital Performance Dashboard](https://github.com/splendorgrandeur-sketch/GREEN-VALLEY-MEDICAL-CENTER-PERFORMANCE-OVERVIEW-AND-REVIEW/blob/main/GVMC%20Dashboard.png)
 
 ---
 
@@ -32,7 +32,7 @@ This is a Performance Analysis for Green Valley Medical Center, focusing on pati
 You can access the interactive documents below:
 
 * [📊 Interactive Dashboard (Excel)](https://github.com/splendorgrandeur-sketch/GREEN-VALLEY-MEDICAL-CENTER-PERFORMANCE-OVERVIEW-AND-REVIEW/blob/main/GVMC%20PERFORMANCE%20ANALYSIS.xlsx)
-* [📈 Detailed Performance Review (PowerPoint)](https://github.com/splendorgrandeur-sketch/GREEN-VALLEY-MEDICAL-CENTER-PERFORMANCE-OVERVIEW-AND-REVIEW/blob/main/GREEN%20VALLEY%20MEDICAL%20CENTER.pdf)
+* [📈 Detailed Performance Review (PowerPoint)](https://github.com/splendorgrandeur-sketch/GREEN-VALLEY-MEDICAL-CENTER-PERFORMANCE-OVERVIEW-AND-REVIEW/blob/main/GVMC%20PERFORMANCE%20REPORT.pdf)
 
 ---
 
