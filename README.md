@@ -27,6 +27,8 @@ This is a Performance Analysis for Green Valley Medical Center, focusing on pati
 - Explore higher‑value specialist services to diversify revenue streams  
 
 ---
+## Data Limitation
+This analysis was conducted using a static healthcare dataset containing patient demographics, treatment outcomes, departmental performance and treatment cost information. The dataset did not contain data fields, benchmarks targets, patient satisfaction scores or readmission rates. As a result, trend analysis, target variance analysis and predictive modelling could not be performed.
 
 ## 📂 Explore Full Reports
 You can access the interactive documents below:
